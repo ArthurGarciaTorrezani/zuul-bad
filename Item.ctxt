@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=description\ weight\ amount
+comment1.target=Item(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ perderItem()
+comment3.params=
+comment3.target=void\ ganhaItem()
+numComments=4
